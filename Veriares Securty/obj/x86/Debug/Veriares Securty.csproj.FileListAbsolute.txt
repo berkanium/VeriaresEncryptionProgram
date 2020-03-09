@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\Proje Programlar\Veriares Securty\Veriares Securty\bin\Debug\Veriares Securty.exe
+C:\Users\LENOVO\Desktop\Proje Programlar\Veriares Securty\Veriares Securty\bin\Debug\Veriares Securty.pdb
+C:\Users\LENOVO\Desktop\Proje Programlar\Veriares Securty\Veriares Securty\obj\x86\Debug\Veriares_Securty.Form1.resources
+C:\Users\LENOVO\Desktop\Proje Programlar\Veriares Securty\Veriares Securty\obj\x86\Debug\Veriares_Securty.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Proje Programlar\Veriares Securty\Veriares Securty\obj\x86\Debug\Veriares Securty.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Proje Programlar\Veriares Securty\Veriares Securty\obj\x86\Debug\Veriares Securty.exe
+C:\Users\LENOVO\Desktop\Proje Programlar\Veriares Securty\Veriares Securty\obj\x86\Debug\Veriares Securty.pdb
+C:\Users\LENOVO\Desktop\Proje Programlar\Veriares Securty\Veriares Securty\obj\x86\Debug\Veriares_Securty.Giriş.resources
+E:\Veriares Securty\Veriares Securty\obj\x86\Debug\Veriares Securty.exe
+E:\Veriares Securty\Veriares Securty\obj\x86\Debug\Veriares Securty.pdb
+E:\Veriares Securty\Veriares Securty\bin\Debug\Veriares Securty.exe
+E:\Veriares Securty\Veriares Securty\bin\Debug\Veriares Securty.pdb
+E:\Veriares Securty\Veriares Securty\obj\x86\Debug\Veriares_Securty.Form1.resources
+E:\Veriares Securty\Veriares Securty\obj\x86\Debug\Veriares_Securty.Giriş.resources
+E:\Veriares Securty\Veriares Securty\obj\x86\Debug\Veriares_Securty.Properties.Resources.resources
+E:\Veriares Securty\Veriares Securty\obj\x86\Debug\Veriares Securty.csproj.GenerateResource.Cache
